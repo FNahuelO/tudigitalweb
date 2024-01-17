@@ -1,0 +1,83 @@
+{
+  "page": {
+    "home": {
+      "title": "TuDigitalWeb",
+      "text": "Committed to sculpting online experiences that captivate, inspire and elevate your digital presence. Why settle for a simple presence when you can have impactful representation on the web?",
+      "msg": "Hello TDW, I am interested in quoting my website. Can you provide me with more information about the services and costs? Thank you."
+    },
+    "services": {
+      "title": "Services",
+      "text": "Boost your image, build your success: a good page speaks excellence about your company.",
+      "cards": {
+        "design": {
+          "title": "Design",
+          "text": "We create the perfect digital representation for your brand. From idea to reality, our team of expert designers is dedicated to every detail, ensuring a visually striking and functional experience for your visitors."
+        },
+        "seo": {
+          "title": "Seo",
+          "text": "Improve your online visibility and attract your ideal audience. With our SEO service, we optimize your site to stand out in search engines, increasing organic traffic and the relevance of your business."
+        },
+        "redesign": {
+          "title": "Redesigns",
+          "text": "Don't be left behind in digital evolution. With our web redesign service, we analyze your current site, identify improvements and apply changes that optimize navigation, aesthetics and efficiency. Boost your online presence with a design renewed and avant-garde."
+        }
+      }
+    },
+    "prices": {
+      "title": "Prices",
+      "cards": {
+        "basic": {
+          "title": "Basic",
+          "text": "Personal website"
+        },
+        "intermediate": {
+          "title": "Intermediate",
+          "text": "Corporate page"
+        },
+        "pro": {
+          "title": "Pro",
+          "text": "Online page"
+        }
+      },
+      "services": {
+        "hosting": "Broad hosting",
+        "domain": "Own domain",
+        "design": "Professional design",
+        "tabThree": "3 tabs",
+        "tab": "5 to 7 tabs",
+        "portfolio": "Portfolio of services or products",
+        "gallery": "Photo and video gallery",
+        "chat": "Whatsapp or Facebook chat",
+        "maps": "Google maps map",
+        "position": "Google positioning",
+        "catalog": "Unlimited product catalog",
+        "payd": "Payment gateway"
+      }
+    },
+    "us": {
+      "title": "We",
+      "text": ",with 5 years of experience, it is a leader in web design. We stand out for creative and functional solutions at a global level.",
+      "choose": {
+        "title": "Why Choose Us?",
+        "list": {
+          "experience": "Proven Experience: 5 years in the industry.",
+          "personality": "Personalized Approach: We approach each project uniquely.",
+          "passion": "Passionate Team: Professionals committed to excellence."
+        }
+      }
+    },
+    "portfolio": {
+      "title": "Portfolio"
+    },
+    "contact": {
+      "title": "Contact us",
+      "text": "Here you won't find those tedious forms that consume your valuable time. Just click the button and let your ideas come to life with us."
+    }
+  },
+  "buttons": {
+    "contact": "Contact us",
+    "buy": "Buy",
+    "quote": "Quote your website now",
+    "more": "See more"
+  }
+}

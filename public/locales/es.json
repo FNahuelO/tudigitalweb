@@ -1,0 +1,84 @@
+{
+  "name": "TuDigitalWeb",
+  "page": {
+    "home": {
+      "title": "Inicio",
+      "text": "Comprometidos en esculpir experiencias en línea que cautivan, inspiran y elevan tu presencia digital. ¿Por qué conformarse con una simple presencia cuando puedes tener una impactante representación en la web?",
+      "msg": "Hola TDW, estoy interesado en cotizar mi web. ¿Puedes proporcionarme más información sobre los servicios y costos? Gracias."
+    },
+    "services": {
+      "title": "Servicios",
+      "text": "Potencia tu imagen, construye tu éxito: una buena página habla excelencias de tu empresa.",
+      "cards": {
+        "design": {
+          "title": "Diseño",
+          "text": "Creamos la representación digital perfecta para tu marca. Desde la idea hasta la realidad, nuestro equipo de diseñadores expertos se dedica a cada detalle, asegurando una experiencia visualmente impactante y funcional para tus visitantes."
+        },
+        "seo": {
+          "title": "Seo",
+          "text": "Mejora tu visibilidad online y atrae a tu audiencia ideal. Con nuestro servicio de SEO, optimizamos tu sitio para destacar en los motores de búsqueda, aumentando el tráfico orgánico y la relevancia de tu negocio."
+        },
+        "redesign": {
+          "title": "Rediseños",
+          "text": "No te quedes atrás en la evolución digital. Con nuestro servicio de rediseño web, analizamos tu sitio actual, identificamos mejoras y aplicamos cambios que optimizan la navegación, la estética y la eficacia. Impulsa tu presencia en línea con un diseño renovado y vanguardista."
+        }
+      }
+    },
+    "prices": {
+      "title": "Precios",
+      "cards": {
+        "basic": {
+          "title": "Básico",
+          "text": "Página web personal"
+        },
+        "intermediate": {
+          "title": "Intermedio",
+          "text": "Página coorporativa"
+        },
+        "pro": {
+          "title": "Pro",
+          "text": "Página online"
+        }
+      },
+      "services": {
+        "hosting": "Hosting amplio",
+        "domain": "Dominio propio",
+        "design": "Diseño profesional",
+        "tabThree": "3 pestañas",
+        "tab": "5 a 7 pestañas",
+        "portfolio": "Portafolio de servicios o productos",
+        "galery": "Galeria de fotos y videos",
+        "chat": "Chat de whatsapp o facebook",
+        "maps": "Mapa de google maps",
+        "position": "Posicionamiento en google",
+        "catalog": "Catalogo de productos ilimitados",
+        "payd": "Pasarela de pagos"
+      }
+    },
+    "us": {
+      "title": "Nosotros",
+      "text": ",con 5 años de experiencia, es líder en diseño web. Nos destacamos por soluciones creativas y funcionales a nivel global.",
+      "choose": {
+        "title": "¿Por Qué Elegirnos?",
+        "list": {
+          "experience": "Experiencia Comprobada: 5 años en la industria.",
+          "personality": "Enfoque Personalizado: Abordamos cada proyecto de manera única.",
+          "passion": "Equipo Apasionado: Profesionales comprometidos con la excelencia."
+        }
+      }
+    },
+    "portfolio": {
+      "title": "Portafolio"
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "text": "Aquí no encontrarás esos tediosos formularios que consumen tu valioso tiempo. Simplemente haz clic en el botón y deja que tus ideas cobren vida con nosotros."
+    }
+  },
+  "buttons": {
+    "contact": "Contactanos",
+    "buy": "Comprar",
+    "quote": "Cotiza tu web ahora",
+    "more": "Ver más"
+  }
+}
