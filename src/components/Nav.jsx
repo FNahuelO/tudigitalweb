@@ -47,7 +47,7 @@ export default function Nav() {
         ))}
       </Container>
       <a
-        href={`https://wa.me/+5491173674797?text=${text}`}
+        href={`https://wa.me/+573137722292?text=${text}`}
         target="_blank"
         rel="noreferrer"
       >

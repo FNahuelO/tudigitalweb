@@ -105,7 +105,7 @@ export default function Price({ data, index, onClick }) {
         })}
       </Container>
       <a
-        href={`https://wa.me/+5491173674797?text=${textoModificado}`}
+        href={`https://wa.me/+573137722292?text=${textoModificado}`}
         target="_blank"
         rel="noreferrer"
       >

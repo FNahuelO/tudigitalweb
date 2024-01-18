@@ -30,7 +30,7 @@ export default function Contacto() {
         </Text>
         <Text width="65%">{t('page.contact.text')}</Text>
         <a
-          href={`https://wa.me/+5491173674797?text=${text}`}
+          href={`https://wa.me/+573137722292?text=${text}`}
           target="_blank"
           rel="noreferrer"
         >
